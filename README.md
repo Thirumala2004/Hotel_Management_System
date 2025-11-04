@@ -26,7 +26,7 @@ This is a Hotel Management System developed using HTML, CSS, JavaScript, PHP, an
 ## Implementation Steps
 
 1. *Clone the repository*:
-   git clone https://github.com/pasamjyothi/Hotel_Management_system.git
+   git clone https://github.com/Thirumala2004/Hotel_Management_System.git
 2. Keep the Hotel_Management_System Folder in xampp/htdocs/Hotel_Management_System
 4. Go to Xampp PHPMyadmin
 5. Go to New
@@ -39,6 +39,18 @@ This is a Hotel Management System developed using HTML, CSS, JavaScript, PHP, an
    
 ##🎥 [Watch Project Demo Video (Google Drive)]
      https://drive.google.com/file/d/1l4cwJZnyKFZSETfKnkANAAny_WwGM4Q2/view?usp=drive_link
+     
+Deployment Links
+
+Hotel Website Link:
+https://hotelgreenpark.infinityfreeapp.com/index.php
+
+Admin Page:
+https://hotelgreenpark.infinityfreeapp.com/admin/index.php
+
+
+
+
 
 
 
